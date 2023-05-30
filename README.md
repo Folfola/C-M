@@ -23,3 +23,7 @@
 | `5-flip_bits.c`        | `unsigned int flip_bits(unsigned long int n, unsigned long int m);` |
 | `100-get_endianness.c` | `int get_endianness(void);`                                         |
 
+# C - Shell simpel.
+# information for shell . This is a two person project. 
+| loop                  |      she does                                                     |
+| --------------------- | ----------------------------------------------------------------- |
