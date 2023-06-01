@@ -24,6 +24,7 @@
 | `100-get_endianness.c` | `int get_endianness(void);`                                         |
 
 # C - Shell simpel.
-# information for shell . This is a two person project. 
-| loop                  |      she does                                                     |
-| --------------------- | ----------------------------------------------------------------- |
+# information for shell . This is a two person project .wallah i don't know ktr mn hadchi  . 
+
+| loop                  |      does                                                     |
+| --------------------- | ------------------------------------------------------------- |
